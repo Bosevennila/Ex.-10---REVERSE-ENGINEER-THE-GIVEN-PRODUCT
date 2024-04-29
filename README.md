@@ -33,10 +33,8 @@
 ## Input:
 ![image](https://github.com/Bosevennila/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870486/06a886f6-a0d7-4d2b-9198-bc8d6bb3d305)
 
-
 ### Output:
 ![image](https://github.com/Bosevennila/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870486/35e009dd-2d5e-4d6d-8b6e-a3d752c94156)
-
 
 ### Name: CHANDRAPRIYADHARSHINI C
 ### Register Number: 212223240019
